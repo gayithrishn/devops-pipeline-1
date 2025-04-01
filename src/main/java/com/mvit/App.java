@@ -14,5 +14,6 @@ public class App
         System.out.println("20+30 = " + sum);
 
         System.out.println("Application executed sucessfully!");
+        System.out.println("devops lab executed");
     }
 }
